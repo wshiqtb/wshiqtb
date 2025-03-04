@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @wshiqtb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wshiqtb/wshiqtb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m tianBing
+<p>
+  <a href="https://juejin.cn/user/166781496599287" target="_blank">掘进</a>
+   .
+  <a href="https://www.cnblogs.com/wshiqtb" target="_blank">博客园</a>
+   .
+  <a href="https://juejin.cn/user/166781496599287" target="_blank">掘进</a>
+   .
+</p>
